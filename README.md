@@ -1,6 +1,6 @@
 # 2024 NYC Evictions Data Story
 
-Find the story here: https://cj-robinson.github.io/evictions-story
+Find the story here: [https://cj-robinson.github.io/evictions-story](https://cj-robinson.github.io/2024-nyc-evictions/)
 
 Overview/Findings
 --
